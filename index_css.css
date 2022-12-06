@@ -1,0 +1,153 @@
+body{
+    background-color: #1a2243;
+}
+
+h1{
+    text-align: center;
+    margin-top: 3vw;  
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.3vw;
+}
+
+#datetime{
+    text-align: right;
+    color: #fdef97;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1vw;
+    margin-right: 3%;
+}
+
+.container1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subTabel1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.data{
+    margin: 1vw;
+    background-color: #1f2d55;
+    width: 20vw;
+    height: 10vw;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.data header{
+    text-align: center;
+    padding-top: 1.3vw;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3vw;
+}
+
+.data #p_1{
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(145, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+}
+.data #p_2{
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(0, 182, 127);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+}
+.data #p_3{
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(133, 162, 226);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+}
+.status1{
+    padding-top: 3%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+.elemSubTabel1 #dataSuhu{
+    text-align: center;
+    padding-top: 0%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+.status2{
+    padding-top: 0%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+.elemSubTabel1 #dataKel{
+    text-align: center;
+    padding-top: 0%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+.status3{
+    padding-top: 0%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+.elemSubTabel1 #dataIntent{
+    text-align: center;
+    padding-top: 0%;
+    text-align: left;
+    color: rgb(24, 216, 82);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9vw;
+}
+
+.container2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.plot_label{
+    padding-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 1.75vw;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subdata{
+    margin: auto;
+    background-color: #1f2d55;
+    width: 30vw;
+    height: 20vw;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subdata header{
+    text-align: center;
+    padding-top: 1.3vw;
+    padding-bottom: 1vw;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3vw;
+}
